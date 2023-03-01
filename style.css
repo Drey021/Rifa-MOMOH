@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+table{
+    border-collapse: collapse;
+    border: 5px solid #ededed;
+   }
+   
+tbody tr {
+    height: 50px;
+    border-bottom: 1px solid #ededed;
+    background-color: #fbfbfb;
+    text-align: center;
+ }
+   
+.title {
+    background-color: #009688;
+    height: 40px;
+    color: #fff;
+    font-size: 26px;
+}
+.negrito {
+    font-weight: bold;
+   }
+   
+.right {
+    float:right; 
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
